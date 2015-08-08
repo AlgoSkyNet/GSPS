@@ -7,7 +7,7 @@ Definition:
  Every building, place in the world need a self-description(longitude, latitude..) tag.
  Human or device can read location from a tag.
  Everyone can publish a location tag.
- It should be useful if power failure, event after nuclear war!
+ It should be useful if a power failure occurs, event after nuclear war!
 
 It can be a paper, a RFID tag, a andvanced device(for car, aircraft, ship..).
 
