@@ -1,5 +1,5 @@
 # GSPS
-  Global Self Positioning System. A location tag system.
+  Global Self Positioning System. A high precision, fast, low power cost, robust location tag system.
 Unlike GPS, there is no need satellite, network, even smart phone.
 Just need everyone and every government join us!
 
@@ -27,4 +27,3 @@ Read the tag or scan it use your phone, then you can know where you are.
 *SOS
  If you have a phone with NFC, scan a location tag, send location!
  If you haven't a NFC device, Use your eyes. :-p
- Fast, low power cost, high precision.
