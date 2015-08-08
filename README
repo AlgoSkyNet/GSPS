@@ -12,7 +12,7 @@ Definition:
 If people tag their house, the system will work.
 Write longitude and latitude of the building on the paper, paste it on the wall. Done!
 Don't worry about missile or bad guys, they know it! :-)
-A tag can be a paper, a RFID tag, a andvanced(radio..) device(for car, aircraft, ship..).
+A tag can be a paper, a RFID tag, a andvanced(location radio station..) device(for car, aircraft, ship..).
 
 Applications:
 *Map:
