@@ -1,2 +1,20 @@
 # GSPS
-Global Self Positioning System. Unlike GPS, there is no need satellite, network, even smart phone. Just need every country join us!
+  Global Self Positioning System. A location system.
+Unlike GPS, there is no need satellite, network, even smart phone.
+Just need everyone and every government join us!
+
+Definition:
+ Every building, place in the world need a self-description(longitude, latitude..) tag.
+ Human or device can read location from a tag.
+ Everyone can publish a location tag.
+ It should be useful if power failure, event after nuclear war!
+
+It can be a paper, a RFID tag, a andvanced device(for car, aircraft, ship..).
+
+Application:
+*Map:
+ If you lost in the world, find a location tag.
+Read the tag or scan it use your phone.
+Then you can know where you are.
+
+*Smart driving:
