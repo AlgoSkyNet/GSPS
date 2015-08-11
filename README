@@ -21,7 +21,7 @@ Definition:
    Y: 01 -> Latitude: from +0.0 to +45.0
 
 If people tag their house, the system will work.
-Write longitude and latitude of the building on the paper, paste it on the wall. Done!
+Write location of the building on the paper, paste it on the wall. Done!
 Don't worry about missile or bad guys, they know it! :-)
 A tag can be a paper, a RFID tag, a andvanced device(location radio station..).
 
