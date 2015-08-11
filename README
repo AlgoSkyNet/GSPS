@@ -8,6 +8,17 @@ Definition:
  Human or device can read location from a tag.
  Everyone can publish a location tag, and it's free.
  It should be useful if a power failure occurs, event after nuclear war!
+ 
+ Location: Both human and device can easy read it.
+   I use binary search tree describe position. Actually it is a range.
+   0: right or up
+   1: left or down
+   example:
+   X: 0 -> Longitude: from +0.0 to +180.0
+   Y: 1 -> Latitude: from -0.0 to -90.0
+
+   X: 00 -> Longitude: from +90.0 to +180.0
+   Y: 01 -> Latitude: from +0.0 to +45.0
 
 If people tag their house, the system will work.
 Write longitude and latitude of the building on the paper, paste it on the wall. Done!
